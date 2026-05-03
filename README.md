@@ -18,10 +18,10 @@
 
 > 🟢 **Available for new opportunities**
 >
-> ✦ Turning caffeine into commits since day one
-> ✦ I love clean architecture, fast APIs & great DX
-> ✦ Currently exploring **AI/ML** & **System Design**
-> ✦ Based in **India** 🇮🇳 · Open to remote worldwide
+> ✦ Turning caffeine into commits since day one  
+> ✦ I love clean architecture, fast APIs & great DX  
+> ✦ Currently exploring **AI/ML** & **System Design**  
+> ✦ Based in **India** 🇮🇳 · Open to remote worldwide  
 
 ---
 
@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgautam01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=abhinavgautam01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
