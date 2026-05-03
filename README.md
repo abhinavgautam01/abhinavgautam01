@@ -20,7 +20,7 @@
 >
 > ✦ Turning caffeine into commits since day one  
 > ✦ I love clean architecture, fast APIs & great DX  
-> ✦ Currently exploring **AI/ML** & **System Design**  
+> ✦ Currently exploring **AI/ML,** **Web3(Solana Ecosystem)** & **System Design**  
 > ✦ Based in **India** 🇮🇳 · Open to remote worldwide  
 
 ---
