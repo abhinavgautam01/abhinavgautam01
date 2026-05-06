@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-   ___   ___  __ _______  _____ _   __  ________  __  ___________   __  ___
-  / _ | / _ )/ // /  _/ |/ / _ | | / / / ___/ _ |/ / / /_  __/ _ | /  |/  /
- / __ |/ _  / _  // //    / __ | |/ / / (_ / __ / /_/ / / / / __ |/ /|_/ / 
-/_/ |_/____/_//_/___/_/|_/_/ |_|___/  \___/_/ |_\____/ /_/ /_/ |_/_/  /_/  
+   ___    ___   __ __ ____ _  __ ___  _   __       _____  ___   __  __ ______ ___    __  ___
+  / _ |  / _ ) / // //  _// |/ // _ || | / /      / ___/ / _ | / / / //_  __// _ |  /  |/  /
+ / __ | / _  |/ _  /_/ / /    // __ || |/ /      / (_ / / __ |/ /_/ /  / /  / __ | / /|_/ / 
+/_/ |_|/____//_//_//___//_/|_//_/ |_||___/       \___/ /_/ |_|\____/  /_/  /_/ |_|/_/  /_/  
 ```
 
 </div>
@@ -12,7 +12,6 @@
 ```bash
 ▶ abhinav@dev:~$ whoami
   → Software Developer..!
-
 ▶ abhinav@dev:~$ cat about.md
 ```
 
@@ -46,16 +45,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhinavgautam01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgautam01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+<img height="160" src="https://github-readme-stats-lime-one-95.vercel.app/api?username=abhinavgautam01&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats-lime-one-95.vercel.app/api/top-langs/?username=abhinavgautam01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavgautam01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" />
+
+<img src="https://github-readme-streak-stats-mocha-three.vercel.app?user=abhinavgautam01&theme=transparent&hide_border=true&background=0D1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&dates=8b949e&sideLabels=58a6ff&sideNums=e6edf3&currStreakNum=e6edf3&stroke=0d1117" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam01&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavgautam01&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&hide_border=true&area=true&area_color=1f3a5f&radius=6" />
+
 </div>
 
 ---
@@ -72,10 +78,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavgautam01&style=flat-square&color=58a6ff&label=profile+views" />
-</div>
 
 <div align="center">
 
